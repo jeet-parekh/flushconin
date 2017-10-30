@@ -2,10 +2,11 @@
 
 ---
 
-### About flushconin
+### About `flushconin`
 
-- Use flushconin to flush console input buffer.
+- Use `flushconin` to flush console input buffer.
 - Works only for Windows.
+- [Documentation: godoc](https://godoc.org/github.com/jeet-parekh/flushconin)
 
 ---
 
